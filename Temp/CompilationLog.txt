@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-031ace06d704a4f7196636ad2599df66
+# Starting compiling UnityEngine.UI.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cefdab49ea5b64234890764da96d358c
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0185ae36128354e88920a62cbe55b052
+# Starting compiling Unity.2D.PixelPerfect.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-deed668e98f474689ac99ea5e5304cb7
+# Starting compiling Unity.Timeline.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d4831a229304446ba8ed9e24dded9446
+# Starting compiling Unity.TextMeshPro.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-982221392b3be4d9eb50245142c238d8
+# Starting compiling Unity.Mathematics.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-120f3ff11b297417ca8e937687cf871f
+# Starting compiling Unity.2D.IK.Runtime.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5b5b90be836174481b866c32f8a015d2
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9f6cd918e53cb49c59824554110c30c8
+# Starting compiling Unity.2D.Common.Runtime.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a6f19dbe869b647f282447034af83dc8
+# Starting compiling Unity.Notifications.Android.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-933968c55146643a1a51a37645276c8a
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a7567b77cdd724dbe898cd9e205b48e4
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/Users/rinkang/Development/unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-103c637f100a34df38e3a8854d4edec1
